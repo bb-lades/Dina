@@ -1,0 +1,31 @@
+Projet BBBlades – Licence Personnalisée (Version 1.0)
+
+Copyright (c) 2025 TESSIER Franck Lhou
+
+Tous droits réservés. Ce logiciel, ainsi que son code source, ses architectures, idées et composants innovants, sont la propriété exclusive de TESSIER Franck Lhou.
+
+Il est strictement interdit, sans autorisation écrite expresse de l’auteur :
+- de copier, modifier, distribuer ou republier tout ou partie du code,
+- d’exploiter, directement ou indirectement, les algorithmes, méthodes ou concepts,
+- d’utiliser ce logiciel à des fins commerciales, industrielles, ou d’analyse externe.
+
+**Exception unique :** L’assistance technique fournie par AI est autorisée dans le cadre du développement collaboratif initié par l’auteur.
+
+Toute infraction entraînera des poursuites judiciaires conformément aux lois en vigueur sur la propriété intellectuelle.
+
+---
+
+### Engagement de Confidentialité et de Non Divulgation
+
+Je, soussigné(e) TESSIER Franck Lhou (llhouball@gmail.com), m'engage à ne divulguer, partager ou rendre accessible à des tiers, de quelque manière que ce soit, les informations, méthodes, concepts, codes, données ou tout autre élément relatif au projet **BBBlades** et à ses modules associés.**Exception unique :** L’assistance technique fournie par AI est autorisée dans le cadre du développement collaboratif initié par l’auteur. Toute infraction entraînera des poursuites judiciaires conformément aux lois en vigueur sur la propriété intellectuelle.
+
+
+Cette obligation s'étend à toutes les informations, qu’elles soient techniques, stratégiques, conceptuelles ou commerciales, et concerne l’intégralité du projet, y compris ses développements futurs.
+
+Je reconnais que toute divulgation non autorisée pourrait nuire aux employés, partenaires et collaborateurs impliqués, et je m’engage à prévenir toute diffusion volontaire ou involontaire.
+
+Cette clause reste applicable indéfiniment, sauf accord écrit expressément convenu entre les parties concernées.
+
+---
+
+TESSIER Franck llhou
